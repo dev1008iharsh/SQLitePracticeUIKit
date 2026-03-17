@@ -45,13 +45,6 @@ This app provides a robust system for managing your data:
 
 ---
 
-## 📸 Screenshots
-
-| Home Screen | Add Member | Import/Export |
-| :--- | :--- | :--- |
-| ![List View](https://via.placeholder.com/200x400?text=List+View) | ![Add Member](https://via.placeholder.com/200x400?text=Add+Member) | ![Share Sheet](https://via.placeholder.com/200x400?text=Share+Sheet) |
-
----
 
 ## 🏁 How to Run
 
